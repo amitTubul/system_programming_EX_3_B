@@ -1,0 +1,3 @@
+/home/amitim/CLionProjects/system_programming_EX_3_B/cmake-build-debug/CMakeFiles/system_programming_EX_3_B.dir
+/home/amitim/CLionProjects/system_programming_EX_3_B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amitim/CLionProjects/system_programming_EX_3_B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
